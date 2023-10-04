@@ -14,6 +14,8 @@ public class AppiumBasics extends BaseTest{
 	public void WifiSettingsName() throws MalformedURLException
 	{
 		System.out.println("added");
+		System.out.println("added");
+		System.out.println("added");
 	//code to start server	
 		//AndroidDriver , IOSDriver
 		//Appium code - > Appium Server -> Mobile 		
