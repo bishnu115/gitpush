@@ -9,10 +9,16 @@ import org.testng.annotations.Test;
 import io.appium.java_client.AppiumBy;
 
 public class AppiumBasics extends BaseTest{
-//asdgfghjkl;'lkjhgfdsfghjkl;
+
+
 	@Test
 	public void WifiSettingsName() throws MalformedURLException
 	{
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
 	//code to start server	
 		//AndroidDriver , IOSDriver
 		//Appium code - > Appium Server -> Mobile 		
