@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import io.appium.java_client.AppiumBy;
 
 public class AppiumBasics extends BaseTest{
-
+//asdgfghjkl;'lkjhgfdsfghjkl;
 	@Test
 	public void WifiSettingsName() throws MalformedURLException
 	{
